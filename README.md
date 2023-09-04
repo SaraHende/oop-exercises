@@ -4,6 +4,7 @@ Nyttige links:
 - [Githubs support for
 ,→ Markdown](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 - [Er det jul?](https://isitchristmas.com)
+- [Single sign-on](https://sso.sdu.dk/?ticket=ST-148967-gusiXt2xk8Y53cHTUmZL77LhqxNApvptZMRo6jJnanqLnNeYq9) 
 ## Eksempel formatering:
 1. *Kursiv* tekst.
 2. **Fed** tekst.
