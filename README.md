@@ -6,5 +6,5 @@ Nyttige links:
 - [Er det jul?](https://isitchristmas.com)
 - [Single sign-on](https://sso.sdu.dk/?ticket=ST-148967-gusiXt2xk8Y53cHTUmZL77LhqxNApvptZMRo6jJnanqLnNeYq9) 
 ## Eksempel formatering:
-1. *Kursiv* fremhævning.
-2. **Fed** fremhævning.
+1. *italics* fremhævning.
+2. **bold** fremhævning.
